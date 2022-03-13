@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ryanbthomas/ryanbthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ## Currently Working On
 
 * Creating R packages to help my team build Shiny apps 
@@ -30,3 +31,8 @@ Here are some ideas to get you started:
 * Artifical Intelligence @ Columbia AI
 * python
 * Azure
+
+## TIL
+<!-- TIL START -->
+
+<!-- TIL END -->
