@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently Working On
+
+* Creating R packages to help my team build Shiny apps 
+  - use Azure AD for auth and app roles
+  - use our internal No SQL database to store state
+  - track usages using Google Analytics
+  - that have a consistent branded UX
+* R package to generate passphrases using the EFF Dice Method 
+
+## Currently Learning
+
+* How to build better Shiny apps
+* Artifical Intelligence @ Columbia AI
+* python
+* Azure
