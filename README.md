@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<a rel="me" href="https://fosstodon.org/@ryebreadnyc">🐘 @ryebreadnyc@fosstodon.org</a>
 
 ## Currently Working On
 
