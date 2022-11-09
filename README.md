@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a rel="me" href="https://fosstodon.org/@ryebreadnyc">🐘 @ryebreadnyc@fosstodon.org</a>
+<head>
+<a rel="me" href="https://fosstodon.org/@ryebreadnyc">Mastodon</a>
+</head>
 
 ## Currently Working On
 
